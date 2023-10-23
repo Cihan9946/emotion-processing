@@ -7,6 +7,7 @@ Metin sınıflandırma, doğal dil işleme (NLP) alanının önemli bir parças�
 Kullanılan Kütüphaneler
 Bu kod, metin işleme ve derin öğrenme için aşağıdaki Python kütüphanelerini kullanır:
 
+
 pandas: Veri çerçevesi işleme için kullanılır.
 numpy: Sayısal hesaplamalar için kullanılır.
 tensorflow.keras: Derin öğrenme modeli oluşturmak ve eğitmek için kullanılır.
