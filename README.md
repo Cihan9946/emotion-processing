@@ -2,6 +2,7 @@
 
 https://www.kaggle.com/mustafacihanncr/emotion-processing
 
+
 Metin Sınıflandırma Modeli ve Metin İşleme
 Metin sınıflandırma, doğal dil işleme (NLP) alanının önemli bir parçasıdır ve birçok uygulama için kullanılır. Bu örnekte, metin sınıflandırma görevi üzerinde çalışmak için kullanılan bir Python kodu incelenecek. Kod, bir metin veri kümesi üzerinde hisse senedi yorumlarını pozitif veya negatif olarak sınıflandıran bir derin öğrenme modeli oluşturur ve eğitir.
 
